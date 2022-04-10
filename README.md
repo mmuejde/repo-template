@@ -1,1 +1,3 @@
 # repo-template
+
+![](preview.gif)
